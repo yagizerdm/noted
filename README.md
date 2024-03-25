@@ -1,1 +1,1 @@
-This is a cross-platform mobile application which is a safe place to save your notes, compatible for both Android and iOS.
+A cross-platform mobile application that provides a secure space to save your notes, compatible with both Android and iOS.
